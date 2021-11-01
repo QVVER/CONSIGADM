@@ -1,5 +1,9 @@
 # consigadm
 
+SISTEMA DE ADMINISTRAÇÃO PARA EMPRESAS DO RAMO DE EMPRÉSTIMO CONSIGNADO.
+
+
+
 # necessario alterar os seguintes arquivos a cada vez que criar um usuario:
 
 #ONDE_______________________#OQUE;
