@@ -2,6 +2,8 @@
 
 SISTEMA DE ADMINISTRAÇÃO PARA EMPRESAS DO RAMO DE EMPRÉSTIMO CONSIGNADO.
 
+DB: MySQL
+
 
 
 # necessario alterar os seguintes arquivos a cada vez que criar um usuario:
@@ -9,7 +11,7 @@ SISTEMA DE ADMINISTRAÇÃO PARA EMPRESAS DO RAMO DE EMPRÉSTIMO CONSIGNADO.
 #ONDE_______________________#OQUE;
 
 
-CONEXAO.PHP______________mysqli_query;
+CONEXAO.PHP______________mysqli_query();
 
 BANCO/EQUIPES/ENUM_________EQUIPES  = enum;
 
